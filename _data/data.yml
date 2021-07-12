@@ -35,17 +35,6 @@ sidebar:
 
       - idiom: Kashmiri
         level: Native
-
-    interests:
-      - item: Guitar
-        link:
-
-      - item: Tennis
-        link:
-
-      - item: Cooking
-        link:
-
 career-profile:
     title: Career Profile
     summary: |
@@ -102,7 +91,7 @@ skills:
         level: 98%
 
       - name: Numpy, Pandas, Scikit-learn, MatplotLib
-        level: 85%
+        level: 88%
 
       - name: HTML5 & CSS
         level: 85%
