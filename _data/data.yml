@@ -7,17 +7,17 @@ sidebar:
     education: True # set to False if you want education in main section instead of in sidebar
 
     # Profile information
-    name: Alan Doe
-    tagline: Full Stack Developer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    name: Kshitij Zutshi
+    tagline: Software Developer
+    avatar: my-portfolio.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
+    email: kshitij.zutshi@gmail.com
+    phone: 984 046 2797
+    website: kaizendev.netlify.app #do not add http://
+    linkedin: kshitij-zutshi
+    xing: 
+    github: kshitijzutshi
     telegram: # add your nickname without '@' sign
     gitlab:
     bitbucket:
@@ -28,19 +28,19 @@ sidebar:
 
     languages:
       - idiom: English
+        level: Professional
+
+      - idiom: Hindi
         level: Native
 
-      - idiom: French
-        level: Professional
-
-      - idiom: Spanish
-        level: Professional
+      - idiom: Kashmiri
+        level: Native
 
     interests:
-      - item: Climbing
+      - item: Guitar
         link:
 
-      - item: Snowboarding
+      - item: Tennis
         link:
 
       - item: Cooking
@@ -49,35 +49,18 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+      Well-rounded individual with 2.5+ years of training and experience across
+      various tech stacks in software development. Looking for career growth
+      and progression in the field of Data Science/Data Engineering.
 education:
-    - degree: MSc in Computer Science
-      university: University of London
-      time: 2011 - 2012
+    - degree: Bachelor of Technology in Electronics and Instrumentation Engineering
+      university: Amrita Vishwa Vidyapeetham
+      time: 2014 - 2018
       details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
-    - degree: BSc in Applied Mathematics
-      university: Bristol University
-      time: 2007 - 2011
-      details: |
-        Describe your study here lorem ipsum dolor sit amet, consectetuer
-        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-        sociis natoque penatibus et magnis dis parturient montes, nascetur
-        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-        pretium quis, sem.
-          - Bullet point
-          - Bullet point
+        Graduated in 2018 with a GPA of 7.81 on 10
+          - Part of Student Exchange program for Politecnico di Milano
+            to pursue research/coursework in Computer Engineering
+          - Thesis Project on 'Detection of diabetic retinopathy using Deep Learning'
 experiences:
     - role: Lead Developer
       time: 2015 - Present
